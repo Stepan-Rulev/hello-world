@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+Hello, everyone!
+I'm desing engeneer, but start learning code now.
